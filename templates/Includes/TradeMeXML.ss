@@ -1,10 +1,10 @@
 <tm:feed xmlns:tm="http://www.trademe.co.nz/schemas/feeds/newGoods/2.0">
 	<tm:suppliers>
 	<tm:supplier>
-		<tm:memberId>2342323</tm:memberId>
+		<tm:memberId>$MemberID</tm:memberId>
 		<tm:products>
 		<tm:product>
-			<tm:sku>a123756</tm:sku>
+			<tm:sku>$SKU</tm:sku>
 			<tm:title>Product A</tm:title>
 			<tm:subtitle>Subtitle for Product A</tm:subtitle>
 			<tm:description>Description of product A</tm:description>
