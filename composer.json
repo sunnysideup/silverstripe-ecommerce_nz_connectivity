@@ -3,7 +3,7 @@
 	"type": "silverstripe-module",
 	"description": "New Zealand Post - Client for the rate finder web API for SilverStripe",
 	"homepage": "http://www.silverstripe-ecommerce.com",
-	"keywords": ["ecommerce", "e-commerce", "shop", "nz", "new zealand" "silverstripe"],
+	"keywords": ["ecommerce", "e-commerce", "shop", "nz", "new zealand", "silverstripe"],
 	"license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
 	"authors":[
 		{
