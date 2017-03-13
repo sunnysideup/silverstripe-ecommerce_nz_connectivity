@@ -25,5 +25,8 @@
         "silverstripe/framework": "~2.4",
         "sunnysideup/ecommerce": "~2.4",
         "silverstripe/cms": "~2.4"
+    },
+    "extra": {
+        "installer-name": "ecommerce_nz_connectivity"
     }
 }

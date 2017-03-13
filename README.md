@@ -15,7 +15,7 @@
 
  * [Developer Docs](docs/en/INDEX.md)
  * [User Guide](docs/en/userguide.md)
- * [API](http://ssmods.com/apis/ecommerce_nz_connectivity/docs/en/api/)
+ * [API Docs](http://docs.ssmods.com/sunnysideup/ecommerce_nz_connectivity)
 
 ## Requirements
 
